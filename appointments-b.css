@@ -71,7 +71,7 @@
     justify-content: center;
     min-width: 280px;
 
-.appointment-title, .appointment-text {
+.appointment-title, .appointment-text, .location-text {
     margin-top: 0;
     margin-bottom: 0;
     color: #868686;
@@ -85,8 +85,12 @@
 .appointment-text {
     font-size: 20px;
     font-family: 'PPNeueMontrealBook';
-    text-decoration: underline;
+}
 
+.location-text {
+    font-size: 20px;
+    font-family: 'PPNeueMontrealBook';
+    text-decoration: underline;
 }
 }
 
