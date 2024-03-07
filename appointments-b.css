@@ -85,6 +85,8 @@
 .appointment-text {
     font-size: 20px;
     font-family: 'PPNeueMontrealBook';
+    text-decoration: underline;
+
 }
 }
 
@@ -100,7 +102,7 @@
     border-radius: 9px;
     width: 180px;
     height: 45px;
-    color: white;
+    color: rgb(78, 75, 75);
 }
 }
 
